@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Acara</string>
+    <string name="UserHandler">https://app.acara.in/api/userHandler.php</string>
+    <string name="Update">https://app.acara.in/api/Update.php</string>
+</resources>
